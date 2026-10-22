@@ -1,26 +1,35 @@
 name: hutradar
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "7,37 * * * *"   # wekker elk half uur; de taak zelf meet elke 10 minuten
   workflow_dispatch: {}
 permissions:
   contents: write
-concurrency: hutradar
+concurrency:
+  group: hutradar
+  cancel-in-progress: false
 jobs:
   meet:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python3 hutradar.py
-      - run: python3 rapport.py
-      - name: Data opslaan
+      - name: Elke 10 minuten meten (max ~5,5 uur per taak)
         run: |
           git config user.name "hutradar-bot"
           git config user.email "hutradar-bot@users.noreply.github.com"
-          git add data
-          git commit -m "meting $(date -u +%FT%TZ)" || echo "geen wijzigingen"
-          git push
+          end=$(( $(date +%s) + 330*60 ))
+          while [ $(date +%s) -lt $end ]; do
+            start=$(date +%s)
+            git pull --rebase --quiet || true
+            python3 hutradar.py || true
+            python3 rapport.py > /dev/null || true
+            git add data
+            git commit -m "meting $(date -u +%FT%TZ)" --quiet || true
+            git push --quiet || (git pull --rebase --quiet && git push --quiet) || true
+            # wacht tot 10 minuten na de start van deze meting
+            sleep $(( 600 - ( $(date +%s) - start ) > 0 ? 600 - ( $(date +%s) - start ) : 0 ))
+          done
