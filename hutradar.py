@@ -79,6 +79,9 @@ def parse(payload):
         status = str(e.get("percentage") or e.get("hutStatus") or "").upper()
         if status == "CLOSED" or str(e.get("hutStatus", "")).upper() == "CLOSED":
             status = "CLOSED"
+        # 0 slaapplaatsen in totaal = online niet boekbaar (gesloten), niet 'volgeboekt'
+        if e.get("totalSleepingPlaces") == 0:
+            status = "CLOSED"
         out[date] = (int(free) if free is not None else None, status)
     return out
 
