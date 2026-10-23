@@ -1,12 +1,14 @@
 # Hutradar-rapport
 
-Meetperiode: 2026-10-22T13:49:39Z t/m 2026-10-23T12:07:02Z (126 runs)
+Meetperiode: 2026-10-22T13:49:39Z t/m 2026-10-23T12:17:03Z (127 runs)
 Vrijgekomen plekken op volle data: **1** (waarvan zomer jun-sep: 0)
 Seizoen/boeking-open-momenten: 0
+Mediane tijd tot weer vol: **30 minuten** (n=1)
+Weer vol binnen 10 min: 0%  |  binnen 60 min: 100%  |  binnen 24 uur: 100%
 
 | Hut | Vrijgekomen | Zomer | Mediaan tot vol (min) | Nog open | Boeking open |
 | --- | --- | --- | --- | --- | --- |
-| Lindauer Hütte | 1 | 0 | - | 1 | 0 |
+| Lindauer Hütte | 1 | 0 | 30 | 0 | 0 |
 
 ## Hoe lees je dit?
 - Veel vrijgekomen plekken op zomerdata = er is aanbod om te melden.
