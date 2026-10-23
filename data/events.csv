@@ -1,2 +1,4 @@
 tijdstip_utc,hut_id,hut,datum,gebeurtenis,vrij_voor,vrij_na,status_na
 2026-10-23T04:56:55Z,297,Lindauer Hütte,2027-03-20,WEER_VOL,6,0,FULL
+2026-10-23T11:47:02Z,297,Lindauer Hütte,2027-01-16,BEDDEN_ERBIJ,1,5,NEARLY FULL
+2026-10-23T11:47:02Z,297,Lindauer Hütte,2027-01-23,VRIJGEKOMEN,0,4,NEARLY FULL
