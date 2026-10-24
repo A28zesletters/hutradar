@@ -5,3 +5,4 @@ tijdstip_utc,hut_id,hut,datum,gebeurtenis,vrij_voor,vrij_na,status_na
 2026-10-23T12:17:03Z,297,Lindauer Hütte,2027-01-23,WEER_VOL,4,0,FULL
 2026-10-24T09:17:36Z,124,Nürnberger Hütte,2026-10-26,WEER_VOL,6,0,FULL
 2026-10-24T09:47:36Z,124,Nürnberger Hütte,2026-10-26,VRIJGEKOMEN,0,6,AVAILABLE
+2026-10-24T11:07:36Z,124,Nürnberger Hütte,2026-10-26,WEER_VOL,6,0,FULL
