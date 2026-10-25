@@ -1,6 +1,6 @@
 # Hutradar-rapport
 
-Meetperiode: 2026-10-22T13:49:39Z t/m 2026-10-25T16:58:21Z (443 runs)
+Meetperiode: 2026-10-22T13:49:39Z t/m 2026-10-25T17:08:21Z (444 runs)
 Vrijgekomen plekken op volle data: **4** (waarvan zomer jun-sep: 0)
 Seizoen/boeking-open-momenten: 0
 Mediane tijd tot weer vol: **55 minuten** (n=2)
