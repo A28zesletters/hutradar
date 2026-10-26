@@ -24,3 +24,4 @@ tijdstip_utc,hut_id,hut,datum,gebeurtenis,vrij_voor,vrij_na,status_na
 2026-10-26T09:18:44Z,234,Wiesbadener Hütte,2027-03-20,BEDDEN_ERBIJ,4,6,NEARLY FULL
 2026-10-26T11:08:45Z,297,Lindauer Hütte,2027-01-23,VRIJGEKOMEN,0,10,NEARLY FULL
 2026-10-26T16:18:50Z,297,Lindauer Hütte,2027-01-23,WEER_VOL,10,0,FULL
+2026-10-26T19:18:50Z,234,Wiesbadener Hütte,2027-03-19,WEER_VOL,4,0,FULL
