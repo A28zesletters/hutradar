@@ -28,3 +28,4 @@ tijdstip_utc,hut_id,hut,datum,gebeurtenis,vrij_voor,vrij_na,status_na
 2026-10-26T19:58:51Z,444,Grialetsch-Hütte SAC,2027-01-23,WEER_VOL,13,0,FULL
 2026-10-26T20:29:00Z,80,Silvrettahütte SAC,2027-06-19,WEER_VOL,10,0,FULL
 2026-10-26T20:48:59Z,80,Silvrettahütte SAC,2027-01-30,WEER_VOL,4,0,FULL
+2026-10-26T20:59:00Z,80,Silvrettahütte SAC,2027-06-19,VRIJGEKOMEN,0,10,NEARLY FULL
