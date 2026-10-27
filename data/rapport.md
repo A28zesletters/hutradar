@@ -1,6 +1,6 @@
 # Hutradar-rapport
 
-Meetperiode: 2026-10-22T13:49:39Z t/m 2026-10-27T01:19:00Z (637 runs)
+Meetperiode: 2026-10-22T13:49:39Z t/m 2026-10-27T01:28:59Z (638 runs)
 Vrijgekomen plekken op volle data: **7** (waarvan zomer jun-sep: 1)
 Seizoen/boeking-open-momenten: 0
 Mediane tijd tot weer vol: **80 minuten** (n=3)
@@ -10,8 +10,8 @@ Weer vol binnen 10 min: 0%  |  binnen 60 min: 33%  |  binnen 24 uur: 100%
 | --- | --- | --- | --- | --- | --- |
 | Lindauer Hütte | 3 | 0 | 170 | 1 | 0 |
 | Jamtalhütte | 1 | 0 | - | 1 | 0 |
-| Silvrettahütte SAC | 1 | 1 | - | 1 | 0 |
 | Nürnberger Hütte | 1 | 0 | 80 | 0 | 0 |
+| Silvrettahütte SAC | 1 | 1 | - | 1 | 0 |
 | Wiesbadener Hütte | 1 | 0 | - | 1 | 0 |
 
 ## Hoe lees je dit?
