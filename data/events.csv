@@ -682,3 +682,4 @@ tijdstip_utc,hut_id,hut,datum,gebeurtenis,vrij_voor,vrij_na,status_na
 2026-10-28T07:49:52Z,195,Kärlingerhaus,2026-12-31,WEER_VOL,160,0,CLOSED
 2026-10-28T11:10:01Z,239,Pforzheimer Hütte,2027-03-05,WEER_VOL,2,0,FULL
 2026-10-28T11:10:01Z,239,Pforzheimer Hütte,2027-03-06,WEER_VOL,2,0,FULL
+2026-10-28T11:20:01Z,444,Grialetsch-Hütte SAC,2027-02-27,VRIJGEKOMEN,0,4,NEARLY FULL
