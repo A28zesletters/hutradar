@@ -702,3 +702,4 @@ tijdstip_utc,hut_id,hut,datum,gebeurtenis,vrij_voor,vrij_na,status_na
 2026-10-28T15:30:00Z,393,Douglasshütte,2027-10-28,WEER_VOL,86,0,CLOSED
 2026-10-28T18:00:09Z,239,Pforzheimer Hütte,2027-02-26,WEER_VOL,14,0,FULL
 2026-10-28T19:30:09Z,79,Klostertaler Umwelthütte,2027-03-13,VRIJGEKOMEN,0,10,AVAILABLE
+2026-10-28T20:30:09Z,33,Chamonna Tuoi CAS,2027-03-20,BEDDEN_ERBIJ,3,10,NEARLY FULL
