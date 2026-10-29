@@ -1,23 +1,23 @@
 # Hutradar-rapport
 
-Meetperiode: 2026-10-22T13:49:39Z t/m 2026-10-29T12:40:38Z (993 runs)
-Vrijgekomen plekken op volle data: **24** (waarvan zomer jun-sep: 11)
+Meetperiode: 2026-10-22T13:49:39Z t/m 2026-10-29T12:50:38Z (994 runs)
+Vrijgekomen plekken op volle data: **26** (waarvan zomer jun-sep: 13)
 Seizoen/boeking-open-momenten: 13
 Mediane tijd tot weer vol: **310 minuten** (n=5)
 Weer vol binnen 10 min: 0%  |  binnen 60 min: 20%  |  binnen 24 uur: 80%
 
 | Hut | Vrijgekomen | Zomer | Mediaan tot vol (min) | Nog open | Boeking open |
 | --- | --- | --- | --- | --- | --- |
-| Kärlingerhaus | 12 | 10 | - | 12 | 0 |
+| Kärlingerhaus | 14 | 12 | - | 14 | 0 |
 | Lindauer Hütte | 4 | 0 | 310 | 1 | 0 |
-| Grialetsch-Hütte SAC | 1 | 0 | - | 1 | 0 |
 | Jamtalhütte | 1 | 0 | - | 1 | 0 |
-| Cabane de Chanrion CAS | 1 | 0 | - | 1 | 0 |
+| Wiesbadener Hütte | 1 | 0 | - | 1 | 0 |
+| Franz-Senn-Hütte | 1 | 0 | - | 1 | 4 |
+| Grialetsch-Hütte SAC | 1 | 0 | - | 1 | 0 |
 | Silvrettahütte SAC | 1 | 1 | 530 | 0 | 0 |
 | Nürnberger Hütte | 1 | 0 | 80 | 0 | 0 |
-| Franz-Senn-Hütte | 1 | 0 | - | 1 | 4 |
 | Klostertaler Umwelthütte | 1 | 0 | - | 1 | 0 |
-| Wiesbadener Hütte | 1 | 0 | - | 1 | 0 |
+| Cabane de Chanrion CAS | 1 | 0 | - | 1 | 0 |
 | Douglasshütte | 0 | 0 | - | 0 | 9 |
 
 ## Hoe lees je dit?
