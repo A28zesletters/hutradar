@@ -757,3 +757,4 @@ tijdstip_utc,hut_id,hut,datum,gebeurtenis,vrij_voor,vrij_na,status_na
 2026-10-31T15:12:23Z,195,Kärlingerhaus,2027-07-15,VRIJGEKOMEN,0,1,AVAILABLE
 2026-10-31T15:22:24Z,195,Kärlingerhaus,2027-07-17,VRIJGEKOMEN,0,1,AVAILABLE
 2026-10-31T15:42:34Z,195,Kärlingerhaus,2027-07-17,WEER_VOL,1,0,FULL
+2026-10-31T17:42:33Z,675,Franz-Senn-Hütte,2027-02-27,WEER_VOL,1,0,FULL
