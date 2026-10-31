@@ -750,3 +750,4 @@ tijdstip_utc,hut_id,hut,datum,gebeurtenis,vrij_voor,vrij_na,status_na
 2026-10-31T11:22:23Z,195,Kärlingerhaus,2027-07-09,WEER_VOL,1,0,FULL
 2026-10-31T11:22:23Z,195,Kärlingerhaus,2027-07-10,VRIJGEKOMEN,0,1,AVAILABLE
 2026-10-31T11:22:23Z,366,Braunschweiger Hütte,2027-07-07,WEER_VOL,2,0,FULL
+2026-10-31T11:32:23Z,195,Kärlingerhaus,2027-07-11,VRIJGEKOMEN,0,2,AVAILABLE
