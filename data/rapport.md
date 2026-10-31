@@ -1,6 +1,6 @@
 # Hutradar-rapport
 
-Meetperiode: 2026-10-22T13:49:39Z t/m 2026-10-31T15:22:24Z (1297 runs)
+Meetperiode: 2026-10-22T13:49:39Z t/m 2026-10-31T15:32:23Z (1298 runs)
 Vrijgekomen plekken op volle data: **52** (waarvan zomer jun-sep: 37)
 Seizoen/boeking-open-momenten: 13
 Mediane tijd tot weer vol: **55 minuten** (n=8)
@@ -11,14 +11,14 @@ Weer vol binnen 10 min: 38%  |  binnen 60 min: 50%  |  binnen 24 uur: 88%
 | Kärlingerhaus | 37 | 35 | 10 | 34 | 0 |
 | Lindauer Hütte | 4 | 0 | 310 | 1 | 0 |
 | Grialetsch-Hütte SAC | 3 | 0 | - | 3 | 0 |
-| Wiesbadener Hütte | 1 | 0 | - | 1 | 0 |
-| Klostertaler Umwelthütte | 1 | 0 | - | 1 | 0 |
-| Silvrettahütte SAC | 1 | 1 | 530 | 0 | 0 |
 | Cabane de Chanrion CAS | 1 | 0 | - | 1 | 0 |
+| Braunschweiger Hütte | 1 | 1 | - | 1 | 0 |
+| Wiesbadener Hütte | 1 | 0 | - | 1 | 0 |
+| Franz-Senn-Hütte | 1 | 0 | - | 1 | 4 |
+| Silvrettahütte SAC | 1 | 1 | 530 | 0 | 0 |
+| Klostertaler Umwelthütte | 1 | 0 | - | 1 | 0 |
 | Nürnberger Hütte | 1 | 0 | 80 | 0 | 0 |
 | Jamtalhütte | 1 | 0 | - | 1 | 0 |
-| Franz-Senn-Hütte | 1 | 0 | - | 1 | 4 |
-| Braunschweiger Hütte | 1 | 1 | - | 1 | 0 |
 | Douglasshütte | 0 | 0 | - | 0 | 9 |
 
 ## Hoe lees je dit?
