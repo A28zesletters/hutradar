@@ -1135,3 +1135,4 @@ tijdstip_utc,hut_id,hut,datum,gebeurtenis,vrij_voor,vrij_na,status_na
 2026-11-01T19:13:17Z,191,Jamtalhütte,2027-03-06,BEDDEN_ERBIJ,2,3,NEARLY FULL
 2026-11-01T19:23:18Z,456,Heidelberger Hütte,2027-03-05,WEER_VOL,5,0,FULL
 2026-11-01T19:23:18Z,456,Heidelberger Hütte,2027-03-06,WEER_VOL,5,0,FULL
+2026-11-01T20:43:17Z,456,Heidelberger Hütte,2027-03-17,WEER_VOL,4,0,FULL
