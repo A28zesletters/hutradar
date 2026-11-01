@@ -1,6 +1,6 @@
 # Hutradar-rapport
 
-Meetperiode: 2026-10-22T13:49:39Z t/m 2026-11-01T23:13:17Z (1488 runs)
+Meetperiode: 2026-10-22T13:49:39Z t/m 2026-11-01T23:23:17Z (1489 runs)
 Vrijgekomen plekken op volle data: **64** (waarvan zomer jun-sep: 42)
 Seizoen/boeking-open-momenten: 322
 Mediane tijd tot weer vol: **80 minuten** (n=12)
@@ -16,13 +16,13 @@ Weer vol binnen 10 min: 25%  |  binnen 60 min: 42%  |  binnen 24 uur: 92%
 | Braunschweiger Hütte | 2 | 2 | - | 2 | 0 |
 | Klostertaler Umwelthütte | 2 | 0 | - | 2 | 0 |
 | Jamtalhütte | 2 | 0 | - | 2 | 0 |
-| Nürnberger Hütte | 1 | 0 | 80 | 0 | 0 |
-| Silvrettahütte SAC | 1 | 1 | 530 | 0 | 0 |
 | Cabane de Chanrion CAS | 1 | 0 | - | 1 | 0 |
 | Martin-Busch-Hütte | 1 | 1 | - | 1 | 0 |
 | Wiesbadener Hütte | 1 | 0 | - | 1 | 0 |
-| Douglasshütte | 0 | 0 | - | 0 | 9 |
+| Nürnberger Hütte | 1 | 0 | 80 | 0 | 0 |
+| Silvrettahütte SAC | 1 | 1 | 530 | 0 | 0 |
 | Monte Rosa Hütte SAC | 0 | 0 | - | 0 | 309 |
+| Douglasshütte | 0 | 0 | - | 0 | 9 |
 
 ## Hoe lees je dit?
 - Veel vrijgekomen plekken op zomerdata = er is aanbod om te melden.
