@@ -1116,3 +1116,4 @@ tijdstip_utc,hut_id,hut,datum,gebeurtenis,vrij_voor,vrij_na,status_na
 2026-11-01T07:02:49Z,476,Martin-Busch-Hütte,2027-08-06,WEER_VOL,2,0,FULL
 2026-11-01T07:12:50Z,476,Martin-Busch-Hütte,2027-06-30,VRIJGEKOMEN,0,1,NEARLY FULL
 2026-11-01T07:12:50Z,476,Martin-Busch-Hütte,2027-07-23,WEER_VOL,2,0,FULL
+2026-11-01T08:23:01Z,456,Heidelberger Hütte,2027-03-29,WEER_VOL,3,0,FULL
