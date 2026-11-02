@@ -1139,3 +1139,4 @@ tijdstip_utc,hut_id,hut,datum,gebeurtenis,vrij_voor,vrij_na,status_na
 2026-11-01T23:23:17Z,476,Martin-Busch-Hütte,2027-09-01,WEER_VOL,1,0,FULL
 2026-11-02T06:13:36Z,366,Braunschweiger Hütte,2027-07-14,WEER_VOL,1,0,FULL
 2026-11-02T06:13:36Z,366,Braunschweiger Hütte,2027-07-28,WEER_VOL,3,0,FULL
+2026-11-02T07:23:37Z,297,Lindauer Hütte,2027-03-20,VRIJGEKOMEN,0,6,NEARLY FULL
