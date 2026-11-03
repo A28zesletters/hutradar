@@ -1,7 +1,7 @@
 # Hutradar-rapport
 
-Meetperiode: 2026-10-22T13:49:39Z t/m 2026-11-03T21:15:08Z (1764 runs)
-Vrijgekomen plekken op volle data: **78** (waarvan zomer jun-sep: 51)
+Meetperiode: 2026-10-22T13:49:39Z t/m 2026-11-03T21:25:09Z (1765 runs)
+Vrijgekomen plekken op volle data: **79** (waarvan zomer jun-sep: 51)
 Seizoen/boeking-open-momenten: 337
 Mediane tijd tot weer vol: **80 minuten** (n=14)
 Weer vol binnen 10 min: 29%  |  binnen 60 min: 43%  |  binnen 24 uur: 86%
@@ -15,8 +15,8 @@ Weer vol binnen 10 min: 29%  |  binnen 60 min: 43%  |  binnen 24 uur: 86%
 | Grialetsch-Hütte SAC | 3 | 0 | - | 3 | 0 |
 | Klostertaler Umwelthütte | 2 | 0 | - | 2 | 0 |
 | Franz-Senn-Hütte | 2 | 0 | 100 | 1 | 4 |
+| Wiesbadener Hütte | 2 | 0 | - | 2 | 0 |
 | Jamtalhütte | 2 | 0 | - | 2 | 0 |
-| Wiesbadener Hütte | 1 | 0 | - | 1 | 0 |
 | Cabane de Chanrion CAS | 1 | 0 | - | 1 | 0 |
 | Silvrettahütte SAC | 1 | 1 | 530 | 0 | 15 |
 | Martin-Busch-Hütte | 1 | 1 | - | 1 | 0 |
