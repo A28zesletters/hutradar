@@ -1,6 +1,6 @@
 # Hutradar-rapport
 
-Meetperiode: 2026-10-22T13:49:39Z t/m 2026-11-03T06:04:23Z (1673 runs)
+Meetperiode: 2026-10-22T13:49:39Z t/m 2026-11-03T06:14:23Z (1674 runs)
 Vrijgekomen plekken op volle data: **72** (waarvan zomer jun-sep: 49)
 Seizoen/boeking-open-momenten: 322
 Mediane tijd tot weer vol: **80 minuten** (n=13)
@@ -17,10 +17,10 @@ Weer vol binnen 10 min: 31%  |  binnen 60 min: 46%  |  binnen 24 uur: 92%
 | Jamtalhütte | 2 | 0 | - | 2 | 0 |
 | Franz-Senn-Hütte | 2 | 0 | 100 | 1 | 4 |
 | Silvrettahütte SAC | 1 | 1 | 530 | 0 | 0 |
-| Cabane de Chanrion CAS | 1 | 0 | - | 1 | 0 |
 | Wiesbadener Hütte | 1 | 0 | - | 1 | 0 |
 | Nürnberger Hütte | 1 | 0 | 80 | 0 | 0 |
 | Martin-Busch-Hütte | 1 | 1 | - | 1 | 0 |
+| Cabane de Chanrion CAS | 1 | 0 | - | 1 | 0 |
 | Monte Rosa Hütte SAC | 0 | 0 | - | 0 | 309 |
 | Douglasshütte | 0 | 0 | - | 0 | 9 |
 
