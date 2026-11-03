@@ -1156,3 +1156,4 @@ tijdstip_utc,hut_id,hut,datum,gebeurtenis,vrij_voor,vrij_na,status_na
 2026-11-02T19:54:03Z,675,Franz-Senn-Hütte,2027-03-14,WEER_VOL,11,0,FULL
 2026-11-03T05:04:23Z,10,Cabane des Dix CAS,2027-04-07,WEER_VOL,2,0,FULL
 2026-11-03T07:24:24Z,456,Heidelberger Hütte,2027-04-01,WEER_VOL,3,0,FULL
+2026-11-03T07:54:24Z,456,Heidelberger Hütte,2027-04-01,VRIJGEKOMEN,0,3,NEARLY FULL
