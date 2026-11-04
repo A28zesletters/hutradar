@@ -1,7 +1,7 @@
 # Hutradar-rapport
 
-Meetperiode: 2026-10-22T13:49:39Z t/m 2026-11-04T19:55:39Z (1900 runs)
-Vrijgekomen plekken op volle data: **86** (waarvan zomer jun-sep: 57)
+Meetperiode: 2026-10-22T13:49:39Z t/m 2026-11-04T20:05:39Z (1901 runs)
+Vrijgekomen plekken op volle data: **87** (waarvan zomer jun-sep: 57)
 Seizoen/boeking-open-momenten: 337
 Mediane tijd tot weer vol: **80 minuten** (n=17)
 Weer vol binnen 10 min: 24%  |  binnen 60 min: 35%  |  binnen 24 uur: 71%
@@ -15,11 +15,12 @@ Weer vol binnen 10 min: 24%  |  binnen 60 min: 35%  |  binnen 24 uur: 71%
 | Grialetsch-Hütte SAC | 3 | 0 | - | 3 | 0 |
 | Wiesbadener Hütte | 3 | 0 | - | 3 | 0 |
 | Franz-Senn-Hütte | 2 | 0 | 100 | 1 | 4 |
-| Jamtalhütte | 2 | 0 | - | 2 | 0 |
-| Silvrettahütte SAC | 2 | 2 | 530 | 1 | 15 |
 | Klostertaler Umwelthütte | 2 | 0 | - | 2 | 0 |
-| Martin-Busch-Hütte | 1 | 1 | - | 1 | 0 |
+| Silvrettahütte SAC | 2 | 2 | 530 | 1 | 15 |
+| Jamtalhütte | 2 | 0 | - | 2 | 0 |
+| Gepatschhaus | 1 | 0 | - | 1 | 0 |
 | Nürnberger Hütte | 1 | 0 | 80 | 0 | 0 |
+| Martin-Busch-Hütte | 1 | 1 | - | 1 | 0 |
 | Cabane de Chanrion CAS | 1 | 0 | - | 1 | 0 |
 | Douglasshütte | 0 | 0 | - | 0 | 9 |
 | Monte Rosa Hütte SAC | 0 | 0 | - | 0 | 309 |
