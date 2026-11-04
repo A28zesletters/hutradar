@@ -1,28 +1,28 @@
 # Hutradar-rapport
 
-Meetperiode: 2026-10-22T13:49:39Z t/m 2026-11-04T12:55:21Z (1858 runs)
-Vrijgekomen plekken op volle data: **80** (waarvan zomer jun-sep: 52)
+Meetperiode: 2026-10-22T13:49:39Z t/m 2026-11-04T13:05:22Z (1859 runs)
+Vrijgekomen plekken op volle data: **82** (waarvan zomer jun-sep: 54)
 Seizoen/boeking-open-momenten: 337
 Mediane tijd tot weer vol: **80 minuten** (n=17)
 Weer vol binnen 10 min: 24%  |  binnen 60 min: 35%  |  binnen 24 uur: 71%
 
 | Hut | Vrijgekomen | Zomer | Mediaan tot vol (min) | Nog open | Boeking open |
 | --- | --- | --- | --- | --- | --- |
-| Kärlingerhaus | 49 | 47 | 10 | 42 | 0 |
+| Kärlingerhaus | 51 | 49 | 10 | 44 | 0 |
 | Lindauer Hütte | 7 | 0 | 310 | 4 | 0 |
 | Heidelberger Hütte | 6 | 0 | 80 | 4 | 0 |
-| Braunschweiger Hütte | 3 | 3 | 4693 | 1 | 0 |
 | Grialetsch-Hütte SAC | 3 | 0 | - | 3 | 0 |
-| Franz-Senn-Hütte | 2 | 0 | 100 | 1 | 4 |
-| Jamtalhütte | 2 | 0 | - | 2 | 0 |
-| Wiesbadener Hütte | 2 | 0 | - | 2 | 0 |
+| Braunschweiger Hütte | 3 | 3 | 4693 | 1 | 0 |
 | Klostertaler Umwelthütte | 2 | 0 | - | 2 | 0 |
-| Cabane de Chanrion CAS | 1 | 0 | - | 1 | 0 |
-| Martin-Busch-Hütte | 1 | 1 | - | 1 | 0 |
-| Silvrettahütte SAC | 1 | 1 | 530 | 0 | 15 |
+| Franz-Senn-Hütte | 2 | 0 | 100 | 1 | 4 |
+| Wiesbadener Hütte | 2 | 0 | - | 2 | 0 |
+| Jamtalhütte | 2 | 0 | - | 2 | 0 |
 | Nürnberger Hütte | 1 | 0 | 80 | 0 | 0 |
-| Douglasshütte | 0 | 0 | - | 0 | 9 |
+| Cabane de Chanrion CAS | 1 | 0 | - | 1 | 0 |
+| Silvrettahütte SAC | 1 | 1 | 530 | 0 | 15 |
+| Martin-Busch-Hütte | 1 | 1 | - | 1 | 0 |
 | Monte Rosa Hütte SAC | 0 | 0 | - | 0 | 309 |
+| Douglasshütte | 0 | 0 | - | 0 | 9 |
 
 ## Hoe lees je dit?
 - Veel vrijgekomen plekken op zomerdata = er is aanbod om te melden.
