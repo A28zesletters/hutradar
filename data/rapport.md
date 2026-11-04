@@ -1,6 +1,6 @@
 # Hutradar-rapport
 
-Meetperiode: 2026-10-22T13:49:39Z t/m 2026-11-04T18:25:32Z (1891 runs)
+Meetperiode: 2026-10-22T13:49:39Z t/m 2026-11-04T18:35:32Z (1892 runs)
 Vrijgekomen plekken op volle data: **85** (waarvan zomer jun-sep: 57)
 Seizoen/boeking-open-momenten: 337
 Mediane tijd tot weer vol: **80 minuten** (n=17)
@@ -11,12 +11,12 @@ Weer vol binnen 10 min: 24%  |  binnen 60 min: 35%  |  binnen 24 uur: 71%
 | Kärlingerhaus | 53 | 51 | 10 | 46 | 0 |
 | Lindauer Hütte | 7 | 0 | 310 | 4 | 0 |
 | Heidelberger Hütte | 6 | 0 | 80 | 4 | 0 |
-| Grialetsch-Hütte SAC | 3 | 0 | - | 3 | 0 |
 | Braunschweiger Hütte | 3 | 3 | 4693 | 1 | 0 |
-| Silvrettahütte SAC | 2 | 2 | 530 | 1 | 15 |
+| Grialetsch-Hütte SAC | 3 | 0 | - | 3 | 0 |
 | Klostertaler Umwelthütte | 2 | 0 | - | 2 | 0 |
-| Franz-Senn-Hütte | 2 | 0 | 100 | 1 | 4 |
 | Wiesbadener Hütte | 2 | 0 | - | 2 | 0 |
+| Franz-Senn-Hütte | 2 | 0 | 100 | 1 | 4 |
+| Silvrettahütte SAC | 2 | 2 | 530 | 1 | 15 |
 | Jamtalhütte | 2 | 0 | - | 2 | 0 |
 | Nürnberger Hütte | 1 | 0 | 80 | 0 | 0 |
 | Martin-Busch-Hütte | 1 | 1 | - | 1 | 0 |
