@@ -1,6 +1,6 @@
 # Hutradar-rapport
 
-Meetperiode: 2026-10-22T13:49:39Z t/m 2026-11-07T05:57:00Z (2248 runs)
+Meetperiode: 2026-10-22T13:49:39Z t/m 2026-11-07T06:07:00Z (2249 runs)
 Vrijgekomen plekken op volle data: **104** (waarvan zomer jun-sep: 72)
 Seizoen/boeking-open-momenten: 442
 Mediane tijd tot weer vol: **100 minuten** (n=23)
@@ -11,18 +11,18 @@ Weer vol binnen 10 min: 26%  |  binnen 60 min: 35%  |  binnen 24 uur: 61%
 | Kärlingerhaus | 67 | 65 | 10 | 57 | 0 |
 | Lindauer Hütte | 7 | 0 | 2351 | 2 | 0 |
 | Heidelberger Hütte | 6 | 0 | 80 | 4 | 0 |
-| Grialetsch-Hütte SAC | 4 | 0 | 13277 | 3 | 105 |
 | Braunschweiger Hütte | 4 | 4 | 4693 | 2 | 0 |
+| Grialetsch-Hütte SAC | 4 | 0 | 13277 | 3 | 105 |
 | Wiesbadener Hütte | 3 | 0 | - | 3 | 0 |
-| Silvrettahütte SAC | 2 | 2 | 530 | 1 | 15 |
 | Klostertaler Umwelthütte | 2 | 0 | - | 2 | 0 |
-| Franz-Senn-Hütte | 2 | 0 | 100 | 1 | 4 |
 | Jamtalhütte | 2 | 0 | - | 2 | 0 |
+| Silvrettahütte SAC | 2 | 2 | 530 | 1 | 15 |
+| Franz-Senn-Hütte | 2 | 0 | 100 | 1 | 4 |
 | Cabane de Chanrion CAS | 1 | 0 | - | 1 | 0 |
-| Gepatschhaus | 1 | 0 | - | 1 | 0 |
-| Martin-Busch-Hütte | 1 | 1 | - | 1 | 0 |
 | Essener und Rostocker Hütte | 1 | 0 | - | 1 | 0 |
 | Nürnberger Hütte | 1 | 0 | 80 | 0 | 0 |
+| Gepatschhaus | 1 | 0 | - | 1 | 0 |
+| Martin-Busch-Hütte | 1 | 1 | - | 1 | 0 |
 | Monte Rosa Hütte SAC | 0 | 0 | - | 0 | 309 |
 | Douglasshütte | 0 | 0 | - | 0 | 9 |
 
