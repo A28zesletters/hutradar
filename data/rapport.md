@@ -1,6 +1,6 @@
 # Hutradar-rapport
 
-Meetperiode: 2026-10-22T13:49:39Z t/m 2026-11-07T13:17:16Z (2292 runs)
+Meetperiode: 2026-10-22T13:49:39Z t/m 2026-11-07T13:27:16Z (2293 runs)
 Vrijgekomen plekken op volle data: **106** (waarvan zomer jun-sep: 72)
 Seizoen/boeking-open-momenten: 442
 Mediane tijd tot weer vol: **310 minuten** (n=25)
@@ -19,10 +19,10 @@ Weer vol binnen 10 min: 24%  |  binnen 60 min: 32%  |  binnen 24 uur: 60%
 | Klostertaler Umwelthütte | 2 | 0 | - | 2 | 0 |
 | Jamtalhütte | 2 | 0 | - | 2 | 0 |
 | Gepatschhaus | 1 | 0 | - | 1 | 0 |
-| Cabane de Chanrion CAS | 1 | 0 | - | 1 | 0 |
-| Essener und Rostocker Hütte | 1 | 0 | - | 1 | 0 |
-| Martin-Busch-Hütte | 1 | 1 | - | 1 | 0 |
 | Nürnberger Hütte | 1 | 0 | 80 | 0 | 0 |
+| Cabane de Chanrion CAS | 1 | 0 | - | 1 | 0 |
+| Martin-Busch-Hütte | 1 | 1 | - | 1 | 0 |
+| Essener und Rostocker Hütte | 1 | 0 | - | 1 | 0 |
 | Monte Rosa Hütte SAC | 0 | 0 | - | 0 | 309 |
 | Douglasshütte | 0 | 0 | - | 0 | 9 |
 
