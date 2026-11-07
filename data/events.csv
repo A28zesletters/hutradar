@@ -1347,3 +1347,4 @@ tijdstip_utc,hut_id,hut,datum,gebeurtenis,vrij_voor,vrij_na,status_na
 2026-11-06T19:26:42Z,191,Jamtalhütte,2027-04-02,WEER_VOL,1,0,FULL
 2026-11-06T21:26:50Z,4,Kesch-Hütte SAC,2027-03-27,WEER_VOL,3,0,FULL
 2026-11-07T00:06:50Z,195,Kärlingerhaus,2027-06-04,WEER_VOL,2,0,FULL
+2026-11-07T00:36:50Z,195,Kärlingerhaus,2027-06-04,VRIJGEKOMEN,0,2,AVAILABLE
